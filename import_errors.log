@@ -1,0 +1,28 @@
+WARNING:django.request:Not Found: /update-customer/1/
+WARNING:django.request:Method Not Allowed: /api/customer/create/
+WARNING:django.request:Not Found: /update-customer/2/
+WARNING:django.request:Not Found: /update-customer/2/
+WARNING:django.request:Not Found: /update-customer/2/
+WARNING:django.request:Bad Request: /api/update-customer/2/
+WARNING:django.request:Not Found: /api/customer_info/2/
+WARNING:django.request:Bad Request: /api/customer/create/
+WARNING:django.request:Bad Request: /api/customer/create/
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+WARNING:django.request:Not Found: /api/customer/1/page=1&page_size=10
+WARNING:django.request:Not Found: /api/customer/2/page=1&page_size=10
+WARNING:django.request:Not Found: /api/customer/2/search="osama ous"
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+WARNING:django.request:Not Found: /api/customer/2/search="osama ous"
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /api/
+WARNING:django.request:Not Found: /api/customers/ [name='list_customers']
+WARNING:django.request:Not Found: /api/customers/ [name='list_customers']
+WARNING:django.request:Not Found: /api/customer/search="osama ous"
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\USER\Customer\Customer\settings.py changed, reloading.
